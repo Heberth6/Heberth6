@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heberth6
+- 👋 Hi, I’m Heberth
 - 👀 I’m interested in Backend development and information security.
 - 🌱 I’m currently learning Java, C#/.NET, Postgree SQL.
 - 💞️ I’m looking to collaborate on open source projects.
